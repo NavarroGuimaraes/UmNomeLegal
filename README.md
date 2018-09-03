@@ -1,4 +1,4 @@
-# Motivo da existência esse repositório
+# Motivo da existência desse repositório
 Não há, isso simplesmete existe. Na verdade, é apenas uma aula. Ma so que é apenas, nada é apenas algo.
 
 # Motivo da existência desse Readme
