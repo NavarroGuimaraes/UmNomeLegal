@@ -1,5 +1,5 @@
 # Motivo da existência desse repositório
-Não há, isso simplesmete existe. Na verdade, é apenas uma aula. Ma so que é apenas, nada é apenas algo.
+Não há, isso simplesmete existe. Na verdade, é apenas uma aula. Mas o que é apenas? Nada é apenas algo. Nada consegue ser apenas algo.
 
 # Motivo da existência desse Readme
 Tédio. Puramente tédio. Nada mais que tédio. Apenas tédio. Daí você se pergunta "Mas você acabou de dizer que nada é apenas algo".
