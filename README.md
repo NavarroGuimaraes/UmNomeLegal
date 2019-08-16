@@ -7,4 +7,4 @@ Bem,  o tédio é nada. Mas quando há nada, há tudo. Afinal, se há nada, tudo
 
 # Motivo da sua existência e de escrever essas coisas que não fazem sentido
 Dane-se. Qual a razão da existência do Universo?
-Ele não deveria existir. E se isso fosse verdade, ninguém sintiria falta do mesmo. Afinal, haveria ninguém no univero.
+Ele não deveria existir. E se isso fosse verdade, ninguém sentiria falta do mesmo. Afinal, haveria ninguém no univero.
